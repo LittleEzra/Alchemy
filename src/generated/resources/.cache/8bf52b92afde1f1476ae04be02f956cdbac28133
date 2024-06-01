@@ -1,0 +1,14 @@
+// 1.20.1	2024-05-21T15:29:44.4291331	Tags for minecraft:block mod id alchemy
+6d13c08c910cf94357ac07dedc84c8b44228680c data/alchemy/tags/blocks/aspen_logs.json
+2a28662ef34218e6b8ec57c9f6e245adf8d3d571 data/minecraft/tags/blocks/fence_gates.json
+b1af6b92115f7c086b021a4787665189e2068055 data/minecraft/tags/blocks/leaves.json
+23c7b1fe5d27e79dc545201e4d8da7e7bdd02359 data/minecraft/tags/blocks/logs_that_burn.json
+5324f41b05d5d09421e0a06ec0b3240d7be6108c data/minecraft/tags/blocks/planks.json
+a670361ae361d0c77812df22762b166b134252f1 data/minecraft/tags/blocks/saplings.json
+55ccafb36fa8b9c0c27c240c3624f13742bde0d8 data/minecraft/tags/blocks/wooden_buttons.json
+6b09bca95d6e060ef2c1b27c0bb556932d04a9ed data/minecraft/tags/blocks/wooden_doors.json
+18a10f523033dd2235853985c0b21e8856cd5ac2 data/minecraft/tags/blocks/wooden_fences.json
+6434542f1fcb941deefa034293d4819e6d19e1cc data/minecraft/tags/blocks/wooden_pressure_plates.json
+54ecd0dd0cf70f51be05016dec313ab274f2294b data/minecraft/tags/blocks/wooden_slabs.json
+a88a04ca0359e90c1427df19b4eaa575d0bbc0f2 data/minecraft/tags/blocks/wooden_stairs.json
+2955ee04ecd7412834a1a151d88c73a497e49e1f data/minecraft/tags/blocks/wooden_trapdoors.json

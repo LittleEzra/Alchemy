@@ -1,0 +1,8 @@
+{
+  "entity.flare.explode": {
+    "sounds": [
+      "alchemy:flare_explode"
+    ],
+    "subtitle": "subtitles.entity.flare.explode"
+  }
+}

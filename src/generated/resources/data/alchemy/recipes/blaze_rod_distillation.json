@@ -1,0 +1,13 @@
+{
+  "type": "alchemy:distillation",
+  "alchemical_charge": {
+    "enchantment": 0,
+    "fire": 4,
+    "nature": 0,
+    "spirit": 0,
+    "water": 0
+  },
+  "ingredient": {
+    "item": "minecraft:blaze_rod"
+  }
+}

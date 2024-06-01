@@ -1,0 +1,13 @@
+{
+  "type": "alchemy:distillation",
+  "alchemical_charge": {
+    "enchantment": 0,
+    "fire": 0,
+    "nature": 0,
+    "spirit": 1,
+    "water": 0
+  },
+  "ingredient": {
+    "item": "minecraft:sculk_catalyst"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "parent": "alchemy:root",
+  "criteria": {
+    "0": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemy:cloud_fluff"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.alchemy.cloud_fluff.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "alchemy:cloud_fluff"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.alchemy.cloud_fluff"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

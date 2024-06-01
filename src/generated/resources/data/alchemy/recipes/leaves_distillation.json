@@ -1,0 +1,13 @@
+{
+  "type": "alchemy:distillation",
+  "alchemical_charge": {
+    "enchantment": 0,
+    "fire": 0,
+    "nature": 1,
+    "spirit": 0,
+    "water": 0
+  },
+  "ingredient": {
+    "tag": "minecraft:leaves"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "render_type": "cutout",
+  "textures": {
+    "particle": "alchemy:block/echo"
+  }
+}
